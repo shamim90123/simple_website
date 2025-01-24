@@ -72,5 +72,9 @@ This is a simple static website built using HTML, CSS, and Bootstrap. It include
     Social Links: Update the social buttons in the Contact section with your own URLs.
     Map: Replace the map iframe source with your Google Maps embed code.
 
+### Screen Shot
+
+<img src="/assets/img/screenshot.png" width="300" alt="Screenshot">
+
 ### License
 This project is open-source and can be used for personal or commercial purposes.
