@@ -44,3 +44,33 @@ This is a simple static website built using HTML, CSS, and Bootstrap. It include
 1. Clone the repository or download the ZIP file.
    ```bash
    git clone <repository-url>
+
+### How to run
+    Open the project directory and load index.html in your browser.
+
+### File Structure
+
+├── assets/
+│   ├── bootstrap/
+│   │   └── css/bootstrap.min.css
+│   ├── fonts/
+│   │   └── font-awesome.min.css
+│   ├── img/
+│   │   ├── intro-bg.jpg
+│   │   └── downloads-bg.jpg
+│   ├── js/
+│       └── grayscale.js
+├── index.html
+└── README.md
+
+
+### How to Customize
+
+    Logo and Branding: Update the <a class="navbar-brand" href="#">Revinr</a> in the navbar to your desired brand name.
+    Hero Section Image: Replace assets/img/intro-bg.jpg with your own image.
+    About Text: Edit the <p> tags in the About section.
+    Social Links: Update the social buttons in the Contact section with your own URLs.
+    Map: Replace the map iframe source with your Google Maps embed code.
+
+### License
+This project is open-source and can be used for personal or commercial purposes.
