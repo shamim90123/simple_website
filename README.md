@@ -74,7 +74,7 @@ This is a simple static website built using HTML, CSS, and Bootstrap. It include
 
 ### Screen Shot
 
-<img src="/assets/img/screenshot.png" width="300" alt="Screenshot">
+<img src="/assets/img/project_screen_shot.png" width="300" alt="Screenshot">
 
 ### License
 This project is open-source and can be used for personal or commercial purposes.
